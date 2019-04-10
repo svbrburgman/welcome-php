@@ -33,7 +33,7 @@ section{
 body {
   color: #404040;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.4;
 }
 
